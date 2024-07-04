@@ -3,3 +3,5 @@
 ---
 
 hello, this is my first visit to Digital Garden!
+
+where is my note?
